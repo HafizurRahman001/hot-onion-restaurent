@@ -1,0 +1,17 @@
+.footer-logo img {
+  width: 182px;
+}
+.footer-logo {
+  text-align: left;
+}
+.food-details p,
+.faq p {
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+.food-details p a,
+.faq p a {
+  text-decoration: none;
+  color: wheat;
+}

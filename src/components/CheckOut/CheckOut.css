@@ -1,0 +1,15 @@
+.quantity-section {
+  border-radius: 25px;
+}
+.add-to-cart-btn {
+  border-radius: 25px;
+  background-color: crimson;
+  color: white;
+}
+.add-to-cart-btn:hover {
+  color: white;
+}
+.increment,
+.decrement {
+  cursor: pointer;
+}

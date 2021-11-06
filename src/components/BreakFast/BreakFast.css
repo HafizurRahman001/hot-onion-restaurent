@@ -1,0 +1,6 @@
+.food-cart:hover {
+  box-shadow: 6px 5px 9px grey;
+}
+.food-cart {
+  border: 1px solid #ddd;
+}

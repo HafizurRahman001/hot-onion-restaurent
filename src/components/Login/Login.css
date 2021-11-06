@@ -1,0 +1,27 @@
+.signin-btn {
+  background-color: rgb(236, 40, 79);
+  width: 306px;
+  color: white;
+}
+.login-logo {
+  width: 323px;
+  margin-left: -69px;
+  padding: 15px 0px 40px 0px;
+}
+.automatic-signin-logo {
+  font-size: 40px;
+  padding: 10px 7px;
+  cursor: pointer;
+}
+.automatic-signin {
+  width: 302px;
+}
+.login-section {
+  height: 100vh;
+}
+
+@media only screen and (max-width: 786) {
+  .login-section {
+    width: 100%;
+  }
+}

@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/yVyt1WV/breakfast6.png",
+        "name": "Bangel cheese",
+        "price": 6.99,
+        "cityName": "Dhaka Rahima Plaza",
+        "ArrivingTime": "20-30",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/b7h1QS7/breakfast5.png",
+        "name": "Sandwich",
+        "price": 9.99,
+        "cityName": "Barishal Sadar",
+        "ArrivingTime": "15-20",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/NrVjhRb/breakfast4.png",
+        "name": "Eggs Benedict",
+        "price": 8.99,
+        "cityName": "Chittagong Main Road",
+        "ArrivingTime": "45-50",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/LhbSFd6/breakfast3.png",
+        "name": "Toast Croissant",
+        "price": 19.99,
+        "cityName": "Rangpur Badda Road",
+        "ArrivingTime": "20-22",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/m9jWPMS/breakfast2.png",
+        "name": "Baked Chiken",
+        "price": 10.99,
+        "cityName": "Barishal Rupatoli",
+        "ArrivingTime": "10-15",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/HPBM7d9/breakfast1.png",
+        "name": "Toast Brunch",
+        "price": 3.99,
+        "cityName": "Dhaka City Road",
+        "ArrivingTime": "25-35",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/vLhBFTP/dinner6.png",
+        "name": "Healthy Meal",
+        "price": 23.99,
+        "cityName": "Dhaka Alek Mashjid",
+        "ArrivingTime": "15-22",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/2n9N31D/dinner5.png",
+        "name": "Chicken Bento",
+        "price": 9.99,
+        "cityName": "Subham Mia Lake",
+        "ArrivingTime": "22-26",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/LJ997Qw/dinner4.png",
+        "name": "T.R. -Salmon",
+        "price": 6.99,
+        "cityName": "Rangin Fashion, Dhaka",
+        "ArrivingTime": "22-28",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/XJ1SjgR/dinner3.png",
+        "name": "Beaf Steak",
+        "price": 15.99,
+        "cityName": "Lal Mia Shop",
+        "ArrivingTime": "38-46",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 11,
+        "img": "https://i.ibb.co/MPwG9Kx/dinner2.png",
+        "name": "Honey S. Glazed",
+        "price": 7.99,
+        "cityName": "Marin Academic, Barishal",
+        "ArrivingTime": "22-25",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 12,
+        "img": "https://i.ibb.co/s5TdBdF/dinner1.png",
+        "name": "Indian Lunch",
+        "price": 8.99,
+        "cityName": "Lalmonir Bajar",
+        "ArrivingTime": "35-45",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 13,
+        "img": "https://i.ibb.co/72D9bBw/lunch6.png",
+        "name": "S. Grapefruit",
+        "price": 9.99,
+        "cityName": "JuqarBarg Mor",
+        "ArrivingTime": "22-23",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 14,
+        "img": "https://i.ibb.co/z7nwtnN/lunch5.png",
+        "name": "Lemony Salmon",
+        "price": 10.99,
+        "cityName": "Antesta Plaza",
+        "ArrivingTime": "25-28",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 15,
+        "img": "https://i.ibb.co/mt7Mt5W/lunch4.png",
+        "name": "Pork Tenderloin",
+        "price": 12.99,
+        "cityName": "Baro vatiar Road",
+        "ArrivingTime": "18-21",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 16,
+        "img": "https://i.ibb.co/ZM73XT5/lunch3.png",
+        "name": "French Fries",
+        "price": 8.99,
+        "cityName": "Bangla Bajar, Barishal",
+        "ArrivingTime": "25-36",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 17,
+        "img": "https://i.ibb.co/89MFFxw/lunch2.png",
+        "name": "Garlic Butter",
+        "price": 6.99,
+        "cityName": "Notun Mollar Mor",
+        "ArrivingTime": "12-15",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    },
+    {
+        "id": 18,
+        "img": "https://i.ibb.co/cLs0DsH/lunch1.png",
+        "name": "Baked Chicken",
+        "price": 9.99,
+        "cityName": "Dhaka Gang Star Hotel",
+        "ArrivingTime": "25-45",
+        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi cupiditate, fugit placeat eius minima aliquid deserunt iusto rem mollitia. Explicabo quo quas quasi maxime in!"
+    }
+]

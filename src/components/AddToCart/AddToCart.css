@@ -1,0 +1,27 @@
+.food-summary p,
+h5 {
+  margin: 0;
+}
+.cart-summary {
+  background-color: #8080801a;
+  border-radius: 15px;
+  padding: 10px 0px;
+}
+.cart-summary-quantity-btn {
+  padding: 2px 15px;
+  border-radius: 10px;
+}
+.cart-summary-quantity-btn p {
+  padding: 0px 7px;
+  font-size: 20px;
+  font-weight: bold;
+}
+table,
+td {
+  border-collapse: collapse;
+  border-bottom: 1px solid #ddd;
+  padding: 7px 4px;
+}
+.total-section {
+  border-bottom: 2px solid white;
+}

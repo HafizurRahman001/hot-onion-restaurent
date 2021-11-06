@@ -1,0 +1,41 @@
+.banner-section {
+  background-image: url("../../images/bannerbackground.png");
+  width: 100%;
+  height: 80vh;
+  background-size: cover;
+  background-position: center center;
+}
+.banner-heading {
+  text-align: center;
+  font-size: 48px;
+  vertical-align: baseline;
+  padding-top: 164px;
+}
+.search-section {
+  margin: auto;
+  text-align: center;
+  width: 500px;
+  padding: 15px 0px;
+}
+.search-btn {
+  background-color: crimson;
+  border-radius: 50px;
+  padding: 0px 20px;
+  margin-left: -97px;
+}
+.search-input {
+  border-radius: 50px;
+  padding: 9px 10px;
+}
+
+/* Media Quiry  */
+
+@media only screen and (max-width: 768px) {
+  .search-input {
+    width: 100%;
+  }
+  .search-section {
+    width: 100%;
+    padding: 0 15px;
+  }
+}
